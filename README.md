@@ -1,0 +1,1 @@
+# Vertex-AIBuilding-a-Generative-AI-Application-with-Vertex-AI-and-SingleStore
